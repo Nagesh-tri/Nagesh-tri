@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagesh-tri&label=Profile%20views&color=0e75b6&style=flat" alt="nagesh-tri" /> </p>
 
-- 🔭 I’m currently working on **MLM-Software as real world Product**
+- 🔭 I’m currently working on **BaaS and SaaS**
 
 - 🌱 I’m currently learning **GOLang**
 
