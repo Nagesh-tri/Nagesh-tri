@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Nagesh-tripathi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagesh-tri&label=Profile%20views&color=0e75b6&style=flat" alt="nagesh-tri" /> </p>
 
-- 🔭 I’m currently working on **Sorting Visulizer**
+- 🔭 I’m currently working on **MLM-Software as real world Product**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **GOLang**
 
 - All of my projects are available at [https://nagesh-tri.github.io/Port/](https://nagesh-tri.github.io/Port/)
 
-- 💬 Ask me about **java, javascript, ethical hacking**
+- 💬 Ask me about **java, javascript, node, React and ethical hacking**
 
 - 📫 How to reach me **satyam9mzp@gmail.com**
 
-- ⚡ Fun fact **I think we are only characters of a Game planned by God**
+- ⚡ Fun fact **I think we are only characters of a Game planned by God, and new God is "Prompt Likhne wala"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
